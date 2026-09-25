@@ -1,0 +1,23 @@
+testEmptyTree: PASS
+testSingleElement: PASS
+testBasicOperations: PASS
+testLLRotation: PASS
+testRRRotation: PASS
+testLRRotation: PASS
+testRLRotation: PASS
+testDuplicates: PASS
+testRemoveLeaf: PASS
+testRemoveNodeWithOneChild: PASS
+testRemoveNodeWithTwoChildren: PASS
+testRemoveRoot: PASS
+testRemoveNonExisting: PASS
+testRemoveFromEmptyTree: PASS
+testClear: PASS
+testReuseAfterClear: PASS
+testManyInsertions: PASS
+testManyDecreasingInsertions: PASS
+testManyRemovals: PASS
+testMixedOperations: PASS
+testStringValues: PASS
+
+All AVL tests passed!
